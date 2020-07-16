@@ -1,0 +1,6 @@
+C:\Users\hphifer\source\repos\Calc_WindowsForms\CalcEngine\bin\Debug\CalcEngine.dll
+C:\Users\hphifer\source\repos\Calc_WindowsForms\CalcEngine\bin\Debug\CalcEngine.pdb
+C:\Users\hphifer\source\repos\Calc_WindowsForms\CalcEngine\obj\Debug\CalcEngine.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\Calc_WindowsForms\CalcEngine\obj\Debug\CalcEngine.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\Calc_WindowsForms\CalcEngine\obj\Debug\CalcEngine.dll
+C:\Users\hphifer\source\repos\Calc_WindowsForms\CalcEngine\obj\Debug\CalcEngine.pdb

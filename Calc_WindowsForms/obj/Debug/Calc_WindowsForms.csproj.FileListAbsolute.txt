@@ -1,0 +1,13 @@
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\bin\Debug\Calc_WindowsForms.exe.config
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\bin\Debug\Calc_WindowsForms.exe
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\bin\Debug\Calc_WindowsForms.pdb
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\bin\Debug\CalcEngine.dll
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\bin\Debug\CalcEngine.pdb
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\obj\Debug\Calc_WindowsForms.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\obj\Debug\Calc_WindowsForms.Calculator.resources
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\obj\Debug\Calc_WindowsForms.Properties.Resources.resources
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\obj\Debug\Calc_WindowsForms.csproj.GenerateResource.cache
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\obj\Debug\Calc_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\obj\Debug\Calc_WindowsForms.csproj.CopyComplete
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\obj\Debug\Calc_WindowsForms.exe
+C:\Users\hphifer\source\repos\Calc_WindowsForms\Calc_WindowsForms\obj\Debug\Calc_WindowsForms.pdb

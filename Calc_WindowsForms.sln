@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_WindowsForms", "Calc_WindowsForms\Calc_WindowsForms.csproj", "{2814EAE9-9E6D-44AC-B300-6C7777473EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcEngine", "CalcEngine\CalcEngine.csproj", "{972C0991-57C5-4741-9BD6-1983BD336F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2814EAE9-9E6D-44AC-B300-6C7777473EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2814EAE9-9E6D-44AC-B300-6C7777473EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2814EAE9-9E6D-44AC-B300-6C7777473EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2814EAE9-9E6D-44AC-B300-6C7777473EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972C0991-57C5-4741-9BD6-1983BD336F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972C0991-57C5-4741-9BD6-1983BD336F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972C0991-57C5-4741-9BD6-1983BD336F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972C0991-57C5-4741-9BD6-1983BD336F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EAB4453-D11B-4882-BDDC-4E7C1D5776B6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.unitedshore.com/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Calc_WindowsForms\\Calc_WindowsForms.csproj
+		SccProjectName1 = Calc_WindowsForms
+		SccLocalPath1 = Calc_WindowsForms
+		SccProjectUniqueName2 = CalcEngine\\CalcEngine.csproj
+		SccProjectName2 = CalcEngine
+		SccLocalPath2 = CalcEngine
+	EndGlobalSection
+EndGlobal
